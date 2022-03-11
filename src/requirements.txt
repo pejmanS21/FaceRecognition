@@ -1,0 +1,7 @@
+torch
+torchvision
+torchsummary
+pandas
+numpy
+opencv-python
+deep_utils
